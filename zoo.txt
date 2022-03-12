@@ -1,4 +1,4 @@
-#A Tour Through the Visualization Zoo
+# A Tour Through the Visualization Zoo
 
 To put the information to good use, we must find ways to explore, relate, and communicate the data meaningfully.
 By making data more accessible and appealing, visual representations may also help engage more diverse audiences in exploration and analysis.
