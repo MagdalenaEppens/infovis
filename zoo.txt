@@ -1,9 +1,1 @@
 # A Tour Through the Visualization Zoo
-
-To put the information to good use, we must find ways to explore, relate, and communicate the data meaningfully.
-By making data more accessible and appealing, visual representations may also help engage more diverse audiences in exploration and analysis.
-The challenge is that for any given data set the number of visual encodings is extremely large.
- (…) all visualizations share a common “DNA”—a set of mappings between data properties and visual attributes such as position, size, shape, and color—and that customized species of visualization might always be constructed by varying these encodings
-
-### Time-Series Data
-Time varying phenomena are central to many domains such as finance, science, and public policy. One often needs to compare a large number of time series simultaneously and can choose from a number of visualizations to do so. 
