@@ -14,8 +14,8 @@ Time varying phenomena are central to many domains such as finance, science, and
 
 ### Statistical Distributions: 
 Analysts often want to fit their data to statistical models, either to test hypotheses or predict future values, but an improper choice of model can lead to faulty predictions. Thus, one important use of visualizations is exploratory data analysis: gaining insight into how data is distributed to inform data transformation and modeling decisions. Common - Steam-and-Leaf Plots
-- Q-Q Plots
-- SPLOM
+- Q-Q Plots: it compares two probability distributions by graphing their quantiles against each other. If the two are similar, the plotted values will lie roughly along the central diagonal. If the two are linearly related, values will again lie along a line, though with varying slope and intercept.
+- SPLOM: A SPLOM enables visual inspection of correlations between any pair of variables
 - Parallel Coordinates
 
 ### Maps: 
