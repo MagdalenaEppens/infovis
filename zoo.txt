@@ -7,31 +7,31 @@ The challenge is that for any given data set the number of visual encodings is e
 
 Time-Series Data: 
 Time varying phenomena are central to many domains such as finance, science, and public policy. One often needs to compare a large number of time series simultaneously and can choose from a number of visualizations to do so. 
-•	Index Charts
-•	Stacked Graphs
-•	Small Multiples
-•	Horizon Graphs 
+Index Charts
+Stacked Graphs
+Small Multiples
+Horizon Graphs 
 
 Statistical Distributions: 
 Analysts often want to fit their data to statistical models, either to test hypotheses or predict future values, but an improper choice of model can lead to faulty predictions. Thus, one important use of visualizations is exploratory data analysis: gaining insight into how data is distributed to inform data transformation and modeling decisions. Common techniques include the histogram, (…) and the box-and-whisker plot, which can convey statistical features such as the mean, median, quartile boundaries, or extreme outliers.
-•	Steam-and-Leaf Plots
-•	Q-Q Plots
-•	SPLOM
-•	Parallel Coordinates
+Steam-and-Leaf Plots
+Q-Q Plots
+SPLOM
+Parallel Coordinates
 
 Maps: 
 Many maps are based upon a cartographic projection. Other maps knowingly distort or abstract geographic features to tell a richer story or highlight specific data.
-•	Flow Maps: it represents the movement of a quantity in space and (implicitly) in time
-•	Choropleth Maps: Data is often collected and aggregated by geographical areas (...). A standard approach to communicating this data is to use a color encoding of the geographic area.
-•	Graduated Symbol Maps: it places symbols over an underlying map. This approach avoids confounding geographic area with data values. 
-•	Cartograms: A cartogram distorts the shape of geographic regions so that the area directly encodes a data variable.
+Flow Maps: it represents the movement of a quantity in space and (implicitly) in time
+Choropleth Maps: Data is often collected and aggregated by geographical areas (...). A standard approach to communicating this data is to use a color encoding of the geographic area.
+Graduated Symbol Maps: it places symbols over an underlying map. This approach avoids confounding geographic area with data values. 
+Cartograms: A cartogram distorts the shape of geographic regions so that the area directly encodes a data variable.
 
 Hierarchies: While some data is simply a flat collection of numbers, most can be organized into natural hierarchies.
-•	Node-link Diagrams
-•	Adjacency Diagrams: rather than drawing a link between parent and child in the hierarchy, nodes are drawn as solid areas (either arcs or bars), and their placement relative to adjacent nodes reveals their position in the hierarchy.
-•	Enclosure Diagrams: The enclosure diagram is also space filling, (...). (...)a treemap recursively subdivides area into rectangles. As with adjacency diagrams, the size of any node in the tree is quickly revealed.
+Node-link Diagrams
+Adjacency Diagrams: rather than drawing a link between parent and child in the hierarchy, nodes are drawn as solid areas (either arcs or bars), and their placement relative to adjacent nodes reveals their position in the hierarchy.
+Enclosure Diagrams: The enclosure diagram is also space filling, (...). (...)a treemap recursively subdivides area into rectangles. As with adjacency diagrams, the size of any node in the tree is quickly revealed.
 
 Networks: A central challenge in graph visualization is computing an effective layout. Layout techniques typically seek to position closely related nodes close in the drawing; critically, unrelated nodes must also be placed far enough apart to differentiate relationships. 
-•	Force-directed Layouts: A common and intuitive approach to network layout is to model the graph as a physical system: nodes are charged particles that repel each other, and links are dampened springs that pull related nodes together.
-•	Arc Diagrams
-•	Matrix Views
+Force-directed Layouts: A common and intuitive approach to network layout is to model the graph as a physical system: nodes are charged particles that repel each other, and links are dampened springs that pull related nodes together.
+Arc Diagrams
+Matrix Views
